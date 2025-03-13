@@ -1,0 +1,1 @@
+DATABASE_URI = 'mysql+pymysql://amohmad:welcome@localhost:3306/practise'
